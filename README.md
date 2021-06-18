@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋, I'm Danang Putra Bahari
+
+### 🤔 I'm currently working as Frontend Developer
+### 🔭 Get to know me
+
+- [Linkedin](https://www.linkedin.com/in/danangbahari/)
+- [Instagram](https://www.instagram.com/devku_official/)
+
+
 
 <!--
 **danangace/danangace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
