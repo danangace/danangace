@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Danang Putra Bahari
 
-### 🤔 I'm currently working as Frontend Developer
-### 🔭 Get to know me
+🤔 I'm currently working as Frontend Developer\
+🔭 Get to know me
 
 - [Linkedin](https://www.linkedin.com/in/danangbahari/)
 - [Instagram](https://www.instagram.com/devku_official/)
